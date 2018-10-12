@@ -1,0 +1,17 @@
+<package>
+  <description brief="face_recognize">
+
+     face_recognize
+
+  </description>
+  <author>EVA</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/face_recognize</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
